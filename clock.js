@@ -1,5 +1,5 @@
 name = prompt ("Write Your name");
-alert ("Hello" + name + "this is Ammar");
+alert ("Hello " + name + " this is Ammar");
 setInterval(function(){
     let currentTime = new Date ();
     let hours = currentTime.getHours();
