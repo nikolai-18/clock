@@ -1,3 +1,4 @@
+alert ("Hello Bilal this is Ammar")
 setInterval(function(){
     let currentTime = new Date ();
     let hours = currentTime.getHours();
